@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Welcome to my gitHub 👋
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterson-Paganelli" alt="">
 
