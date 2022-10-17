@@ -3,7 +3,9 @@
   <h1>I am Peterson Paganelli</h1>
   <p>FullStack Developer</p>
 </div>
-
+<div>
+  <h1>About Me</h1>
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterson-Paganelli" alt="Peterson Paganelli most used languages">
 <br />
