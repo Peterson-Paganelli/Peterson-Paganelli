@@ -1,5 +1,6 @@
-### Hi, Welcome to my gitHub 👋
-
+### Hi, Welcome to my portFolio! 👋
+<h1>I am Peterson Paganelli</h1>
+<p>FullStack Developer</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterson-Paganelli" alt="">
 
 
