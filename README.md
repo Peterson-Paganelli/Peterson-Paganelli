@@ -1,6 +1,9 @@
 ### Hi, Welcome to my portfolio! 👋
-<h1>I am Peterson Paganelli</h1>
+<div>
+ <h1>I am Peterson Paganelli</h1>
 <p>FullStack Developer</p>
+</div>
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterson-Paganelli" alt="">
 <br />
