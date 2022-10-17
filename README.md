@@ -2,6 +2,7 @@
 <h1>I am Peterson Paganelli</h1>
 <p>FullStack Developer</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterson-Paganelli" alt="">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <!--
