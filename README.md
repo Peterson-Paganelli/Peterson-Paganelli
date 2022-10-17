@@ -1,4 +1,4 @@
-### Hi, Welcome to my portfolio! 👋
+### Hi, it's a pleasure to have you here! 👋
 <div>
   <h1>I am Peterson Paganelli</h1>
   <p>FullStack Developer</p>
