@@ -7,10 +7,13 @@
   <h1>About Me</h1>
   <p>Work in progress...</p>
 </div>
+<div>
+  <h1>Stats</h1>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterson-Paganelli" alt="Peterson Paganelli most used languages">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Peterson-Paganelli&show_icons=true&theme=radical" alt="Peterson Paganelli stats"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterson-Paganelli" alt="Peterson Paganelli most used languages">
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=Peterson-Paganelli&show_icons=true&theme=radical" alt="Peterson Paganelli stats"/>
 
 <h1>Technologies</h1>
 <h2>Front End</h2>
