@@ -6,6 +6,8 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=Peterson-Paganelli&show_icons=true&theme=radical"/>
 
+<h1>Tecnologias</h1>
+
 
 
 
