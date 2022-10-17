@@ -5,6 +5,7 @@
 </div>
 <div>
   <h1>About Me</h1>
+  <p>Work in progress...</p>
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterson-Paganelli" alt="Peterson Paganelli most used languages">
