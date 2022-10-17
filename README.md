@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Peterson-Paganelli&show_icons=true&theme=radical" alt="Peterson Paganelli stats"/>
 
 <h1>Technologies</h1>
-<p>FrontEnd</p>
+<h2>Front End</h2>
 <div
   display="row">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,15 +19,18 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
-<p>Testing</p>
+<br />
+<h2>Testing</h2>
 <div
   display="row">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </div>
-
-
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<h2>Back End</h2>
+<div
+  display="row">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
 <!--
 **Peterson-Paganelli/Peterson-Paganelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
