@@ -11,7 +11,6 @@ selective process to join the course.</p>
   <p>
   I worked one year as TI support, providing service to company users, building and doing computer maintenance and managing the company's internal network. My goal as a student is to become a web developer with a wide knowledge in computer science.
   </p>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Peterson-Paganelli&label=Profile%20views&color=0e75b6&style=flat" alt="peterson paganelli" /> </p>
 </div>
 <div>
   <h1>Stats</h1>
