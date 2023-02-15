@@ -11,6 +11,7 @@ selective process to join the course.</p>
   <p>
   I worked one year as TI support, providing service to company users, building and doing computer maintenance and managing the company's internal network. My goal as a student is to become a web developer with a wide knowledge in computer science.
   </p>
+  <p>petersonpaganelli@outlook.com</p>
 </div>
 <div>
   <h1>Stats</h1>
