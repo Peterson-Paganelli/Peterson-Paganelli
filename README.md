@@ -1,15 +1,15 @@
-### Hi, it's a pleasure to meet you! 👋
+### Olá, seja bem vindo ao meu GitHub! 👋
 <div>
-  <h1>I am Peterson Paganelli</h1>
+  <h1>Peterson Paganelli</h1>
   <p>FullStack Developer</p>
 </div>
 <div>
   <h1>About Me</h1>
-  <p>Web developer, studying web development at Trybe. Learning Typescript at the moment, I have knowledge in git, HTML, CSS, Jest, React, Redux, Context API, RTL, agile methodologies, Docker, MySql, nodeJs, Express, Sequelize, mocha, shai, sinon. I started learning technology at the beginning of the year 2020 and by the end of the same year I</p>
-  <p>I entered the Santa Catarina State University, where I stayed for one year and a half before doing trybe's 
-selective process to join the course.</p>
+  <p>Estudante de desenvolvimento Web pela Trybe e Ciência da Computação pela UNIVALI. 
+  <p>Atualmente estudando Typescript e MongoDb possuo conhecimentos em Linux, Git, Github, Railway, HTML, CSS, Javascript, Typescript, Jest, React, RTL, Metodologias Ágeis, Redux, Context API, Docker, mySql, Node.js, Express, Sequelize, mocha, chai, sinon.</p>
+  <p>Comecei a estudar desenvolvimento de software no começo do ano de 2020, logo após o inicío da pandemia do Covid-19. No final do mesmo ano entrei na faculdade de Sistemas de informação pela Universidade do Estado de Santa Catarina, onde estudei por um ano e meio antes de fazer o processo seletivo para entrar na Trybe.</p>
   <p>
-  I worked one year as TI support, providing service to company users, building and doing computer maintenance and managing the company's internal network. My goal as a student is to become a web developer with a wide knowledge in computer science.
+Trabalhei um ano na área de Suporte de TI, prestando atendimento ao usuário, fazendo montagem e manutenção em computadores e realizando o gerenciamento da rede interna da empresa. Meu objetivo como estudante e profissional é se tornar um desenvolvedor com amplo conhecimento em desenvovimento Web, BackEnd e Segurança da informação.
   </p>
   <p>petersonpaganelli@outlook.com</p>
 </div>
