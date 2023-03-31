@@ -9,7 +9,7 @@
   <p>Atualmente estudando Typescript e MongoDb possuo conhecimentos em Linux, Git, Github, Railway, HTML, CSS, Javascript, Typescript, Jest, React, RTL, Metodologias Ágeis, Redux, Context API, Docker, mySql, Node.js, Express, Sequelize, mocha, chai, sinon.</p>
   <p>Comecei a estudar desenvolvimento de software no começo do ano de 2020, logo após o inicío da pandemia do Covid-19. No final do mesmo ano entrei na faculdade de Sistemas de informação pela Universidade do Estado de Santa Catarina, onde estudei por um ano e meio antes de fazer o processo seletivo para entrar na Trybe.</p>
   <p>
-Trabalhei um ano na área de Suporte de TI, prestando atendimento ao usuário, fazendo montagem e manutenção em computadores e realizando o gerenciamento da rede interna da empresa. Meu objetivo como estudante e profissional é se tornar um desenvolvedor com amplo conhecimento em desenvovimento Web, BackEnd e Segurança da informação.
+Trabalhei um ano na área de Suporte de TI, prestando atendimento ao usuário, fazendo montagem e manutenção em computadores e realizando o gerenciamento da rede interna da empresa. Meu objetivo como estudante e profissional é se tornar um desenvolvedor com amplo conhecimento em front-end, Back-end e Segurança de dados.
   </p>
   <p>petersonpaganelli@outlook.com</p>
 </div>
