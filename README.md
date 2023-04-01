@@ -1,27 +1,34 @@
 ### Olá, seja bem vindo ao meu GitHub! 👋
 <div>
   <h1>Peterson Paganelli</h1>
-  <p>FullStack Developer</p>
+  <p>Desenvolvedor FullStack</p>
 </div>
 <div>
-  <h1>About Me</h1>
-  <p>Estudante de desenvolvimento Web pela Trybe e Ciência da Computação pela UNIVALI. 
-  <p>Atualmente estudando Typescript e MongoDb possuo conhecimentos em Linux, Git, Github, Railway, HTML, CSS, Javascript, Typescript, Jest, React, RTL, Metodologias Ágeis, Redux, Context API, Docker, mySql, Node.js, Express, Sequelize, mocha, chai, sinon.</p>
-  <p>Comecei a estudar desenvolvimento de software no começo do ano de 2020, logo após o inicío da pandemia do Covid-19. No final do mesmo ano entrei na faculdade de Sistemas de informação pela Universidade do Estado de Santa Catarina, onde estudei por um ano e meio antes de fazer o processo seletivo para entrar na Trybe.</p>
-  <p>
-Trabalhei um ano na área de Suporte de TI, prestando atendimento ao usuário, fazendo montagem e manutenção em computadores e realizando o gerenciamento da rede interna da empresa. Meu objetivo como estudante e profissional é se tornar um desenvolvedor com amplo conhecimento em front-end, Back-end e Segurança de dados.
-  </p>
-  <p>petersonpaganelli@outlook.com</p>
+ <h1>Sobre mim</h1>
+ <p>Estudante de desenvolvimento Web pela Trybe e Ciência da Computação pela UNIVALI.</p>
+ <p>Comecei a estudar desenvolvimento de software no começo do ano de 2020,  logo após o inicío da pandemia do Covid-19. Iniciei com cursos livres e no      final do mesmo ano entrei para o curso de Sistemas da informação pela Universidade do Estado de Santa Catarina, onde estudei por um ano e meio até fazer o processo seletivo para entrar na Trybe.</p>
+ <p>
+Trabalhei um ano na área de Suporte de TI, prestando atendimento ao usuário, fazendo montagem e manutenção em computadores e realizando o gerenciamento da rede interna da empresa e da rede de computadores.
+Meu objetivo como estudante e profissional é se tornar um desenvolvedor com amplo conhecimento em desenvovimento front-end, back-end e Segurança de dados.
+ </p>
+ <h3>Ferramentas:</h3>
+ <p>
+   <p>- Linux - Git - HTML, CSS - Javascript - Typescript</p>
+   <p>- React - Redux - Context -  Docker - MySql</p>
+   <p>- MongoDB - Node.js - Sequelize - Mocha - Chai</p>
+   <p>- Sinon - Jest - SOLID - SCRUM - Railway</p>
+ </p>
+ <p>petersonpaganelli@outlook.com</p>
 </div>
 <div>
-  <h1>Stats</h1>
+  <h1>Status</h1>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterson-Paganelli" alt="Peterson Paganelli most used languages">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=Peterson-Paganelli&show_icons=true&theme=radical" alt="Peterson Paganelli stats"/>
 </div>
 
 
-<h1>Technologies</h1>
+<h1>Tecnologias</h1>
 <h2>Front End</h2>
 <div
   display="row">
@@ -32,7 +39,7 @@ Trabalhei um ano na área de Suporte de TI, prestando atendimento ao usuário, f
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 <br />
-<h2>Testing</h2>
+<h2>Testes</h2>
 <div
   display="row">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
