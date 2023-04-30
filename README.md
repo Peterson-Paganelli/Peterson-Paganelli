@@ -11,13 +11,6 @@
 Trabalhei um ano na área de Suporte de TI, prestando atendimento ao usuário, fazendo montagem e manutenção em computadores e realizando o gerenciamento da rede interna da empresa e da rede de computadores.
 Meu objetivo como estudante e profissional é se tornar um desenvolvedor com amplo conhecimento em desenvovimento front-end, back-end e Segurança de dados.
  </p>
- <h3>Ferramentas:</h3>
- <p>
-   <p>- Linux - Git - HTML, CSS - Javascript - Typescript</p>
-   <p>- React - Redux - Context -  Docker - MySql</p>
-   <p>- MongoDB - Node.js - Sequelize - Mocha - Chai</p>
-   <p>- Sinon - Jest - SOLID - SCRUM - Railway</p>
- </p>
  <p>petersonpaganelli@outlook.com</p>
 </div>
 <div>
@@ -37,6 +30,7 @@ Meu objetivo como estudante e profissional é se tornar um desenvolvedor com amp
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 <br />
 <h2>Testes</h2>
