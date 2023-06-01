@@ -16,8 +16,6 @@ Meu objetivo como estudante e profissional é se tornar um desenvolvedor com amp
 <div>
   <h1>Status</h1>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterson-Paganelli" alt="Peterson Paganelli most used languages">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Peterson-Paganelli&show_icons=true&theme=radical" alt="Peterson Paganelli stats"/>
 </div>
 
 
