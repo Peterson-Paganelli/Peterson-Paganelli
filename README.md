@@ -5,7 +5,7 @@
 </div>
 <div>
  <h1>Sobre mim</h1>
- <p>Estudante de desenvolvimento Web pela Trybe e Ciência da Computação pela UNIVALI.</p>
+ <p>Estudante de Ciência da Computação pela UNIVALI.</p>
  <p>Comecei a estudar desenvolvimento de software no começo do ano de 2020,  logo após o inicío da pandemia do Covid-19. Iniciei com cursos livres e no      final do mesmo ano entrei para o curso de Sistemas da informação pela Universidade do Estado de Santa Catarina, onde estudei por um ano e meio até fazer o processo seletivo para entrar na Trybe.</p>
  <p>
 Trabalhei um ano na área de Suporte de TI, prestando atendimento ao usuário, fazendo montagem e manutenção em computadores e realizando o gerenciamento da rede interna da empresa e da rede de computadores.
@@ -17,9 +17,17 @@ Meu objetivo como estudante e profissional é se tornar um desenvolvedor com amp
   <h1>Status</h1>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterson-Paganelli" alt="Peterson Paganelli most used languages">
 </div>
-
-
-<h1>Tecnologias</h1>
+<h1>Principais tecnologias</h1>
+<div
+  display="row">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+<h1>Demais Tecnologias</h1>
 <h2>Front End</h2>
 <div
   display="row">
