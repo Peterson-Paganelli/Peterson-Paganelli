@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo ao meu GitHub! 👋
 <div>
   <h1>Peterson Paganelli</h1>
-  <p>Desenvolvedor Full Stack</p>
+  <p>Analista de dados</p>
 </div>
 <div>
  <h1>Sobre mim</h1>
