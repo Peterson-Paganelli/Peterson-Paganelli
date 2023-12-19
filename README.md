@@ -41,11 +41,6 @@ Meu objetivo como estudante e profissional é me tornar um desenvolvedor com con
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 <br />
-<h2>Testes</h2>
-<div
-  display="row">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-</div>
 <h2>Back End</h2>
 <div
   display="row">
