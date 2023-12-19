@@ -1,16 +1,19 @@
 ### Olá, seja bem vindo ao meu GitHub! 👋
 <div>
   <h1>Peterson Paganelli</h1>
-  <p>Analista de dados</p>
+  <p>Programador de Sistemas</p>
 </div>
 <div>
  <h1>Sobre mim</h1>
- <p>Estudante de Ciência da Computação pela UNIVALI.</p>
- <p>Comecei a estudar desenvolvimento de software no começo do ano de 2020,  logo após o inicío da pandemia do Covid-19. Iniciei com cursos livres e no      final do mesmo ano entrei para o curso de Sistemas da informação pela Universidade do Estado de Santa Catarina, onde estudei por um ano e meio até fazer o processo seletivo para entrar na Trybe.</p>
+ <p>Estudante de Ciência da Computação na UNIVALI e Programador de sistemas pelo Grupo Roderjan</p>
+ <p>Minha jornada no desenvolvimento de software teve início no começo de 2020, coincidindo com o início da pandemia do Covid-19. Meu aprendizado inicial foi por meio de cursos livres, e ao final desse mesmo ano, ingressei no curso de Sistemas da Informação na Universidade do Estado de Santa Catarina (UDESC). Durante um período de um ano e meio na UDESC, adquiri conhecimentos valiosos antes de decidir fazer o processo seletivo para entrar na Trybe.</p>
  <p>
-Trabalhei um ano na área de Suporte de TI, prestando atendimento ao usuário, fazendo montagem e manutenção em computadores e realizando o gerenciamento da rede interna da empresa e da rede de computadores.
-Meu objetivo como estudante e profissional é se tornar um desenvolvedor com amplo conhecimento em Analise de Dados e segurança da informação
+Enquanto estava na UDESC, tive a oportunidade de trabalhar por um ano na área de Suporte de TI. Nesse papel, fui responsável pelo atendimento ao usuário, realizando montagem e manutenção em computadores, além de gerenciar a rede interna da empresa e a infraestrutura de computadores.
+Meu objetivo como estudante e profissional é me tornar um desenvolvedor com conhecimento abrangente em Análise de Dados e Segurança da Informação.
  </p>
+  <p>
+    Estou comprometido em buscar constantemente oportunidades de aprendizado e desenvolvimento, sempre buscando desafios que me permitam crescer e contribuir de maneira significativa para as organizações.
+  </p>
  <p>petersonpaganelli@outlook.com</p>
 </div>
 <div>
