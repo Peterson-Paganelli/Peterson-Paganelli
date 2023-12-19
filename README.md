@@ -9,7 +9,7 @@
  <p>Comecei a estudar desenvolvimento de software no começo do ano de 2020,  logo após o inicío da pandemia do Covid-19. Iniciei com cursos livres e no      final do mesmo ano entrei para o curso de Sistemas da informação pela Universidade do Estado de Santa Catarina, onde estudei por um ano e meio até fazer o processo seletivo para entrar na Trybe.</p>
  <p>
 Trabalhei um ano na área de Suporte de TI, prestando atendimento ao usuário, fazendo montagem e manutenção em computadores e realizando o gerenciamento da rede interna da empresa e da rede de computadores.
-Meu objetivo como estudante e profissional é se tornar um desenvolvedor com amplo conhecimento em desenvovimento front-end, back-end e Segurança de dados.
+Meu objetivo como estudante e profissional é se tornar um desenvolvedor com amplo conhecimento em Analise de Dados e segurança da informação
  </p>
  <p>petersonpaganelli@outlook.com</p>
 </div>
